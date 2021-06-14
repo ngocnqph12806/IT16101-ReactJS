@@ -1,0 +1,625 @@
+{
+  "product": [
+    {
+      "id": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+      "name": "Nike HBR Pant abc",
+      "type": 1,
+      "brand": 3,
+      "images": [
+        "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+        "http://snkrsg.com/thumb/270x270/1/upload/product/16276192752895914911155571763630594278687094n-4030.jpg",
+        "http://snkrsg.com/thumb/270x270/1/upload/product/16253768152895912244489176936292384648912267n-1798.jpg"
+      ],
+      "properties": [
+        {
+          "idColor": 1,
+          "size": [
+            {
+              "idSize": 2,
+              "price": 1002,
+              "quantity": 1
+            },
+            {
+              "idSize": 3,
+              "price": 1000,
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "idColor": 2,
+          "size": [
+            {
+              "idSize": 2,
+              "price": 1000,
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9dc043c-13e2-4acf-ba33-c1c14fa322a5",
+      "name": "Nguyễn Quang Ngọc",
+      "type": 3,
+      "brand": 2,
+      "images": [
+        "http://snkrsg.com/thumb/270x270/1/upload/product/16276192752895914911155571763630594278687094n-4030.jpg",
+        "http://snkrsg.com/thumb/270x270/1/upload/product/1-4104.jpg"
+      ],
+      "properties": [
+        {
+          "idColor": 6,
+          "size": [
+            {
+              "idSize": 3,
+              "price": 100000,
+              "quantity": 1
+            },
+            {
+              "idSize": 4,
+              "price": 300000,
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "idColor": 3,
+          "size": [
+            {
+              "idSize": 2,
+              "price": 200000,
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da86d76d-7759-4fac-91da-108927e9a252",
+      "name": "Le Trong Dat",
+      "type": 1,
+      "brand": 1,
+      "images": [
+        "http://snkrsg.com/thumb/270x270/1/upload/product/1-6939.jpg",
+        "http://snkrsg.com/thumb/270x270/1/upload/product/httpshypebeast-3124.jpg",
+        "http://snkrsg.com/thumb/270x270/1/upload/product/16323277952895913244489074679456206194591762n-1100.jpg"
+      ],
+      "properties": [
+        {
+          "idColor": 1,
+          "size": [
+            {
+              "idSize": 3,
+              "price": 1004,
+              "quantity": 1
+            },
+            {
+              "idSize": 2,
+              "price": 535345,
+              "quantity": 155
+            },
+            {
+              "idSize": 6,
+              "price": 123213,
+              "quantity": 1
+            },
+            {
+              "idSize": 5,
+              "price": 534252,
+              "quantity": 143
+            }
+          ]
+        },
+        {
+          "idColor": 2,
+          "size": [
+            {
+              "idSize": 7,
+              "price": 534432,
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "idColor": 3,
+          "size": [
+            {
+              "idSize": 8,
+              "price": 242452,
+              "quantity": 423
+            },
+            {
+              "idSize": 9,
+              "price": 423423,
+              "quantity": 23
+            },
+            {
+              "idSize": 5,
+              "price": 42344234,
+              "quantity": 423
+            },
+            {
+              "idSize": 2,
+              "price": 234234,
+              "quantity": 424
+            }
+          ]
+        },
+        {
+          "idColor": 4,
+          "size": [
+            {
+              "idSize": 9,
+              "price": 423423,
+              "quantity": 24
+            },
+            {
+              "idSize": 8,
+              "price": 4325543,
+              "quantity": 23
+            }
+          ]
+        },
+        {
+          "idColor": 5,
+          "size": [
+            {
+              "idSize": 10,
+              "price": 423424,
+              "quantity": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "color": [
+    {
+      "id": 1,
+      "value": "#bb0fff"
+    },
+    {
+      "value": "#fdbd4d",
+      "id": 2
+    },
+    {
+      "value": "red",
+      "id": 3
+    },
+    {
+      "value": "pink",
+      "id": 4
+    },
+    {
+      "value": "orange",
+      "id": 5
+    },
+    {
+      "value": "violet",
+      "id": 6
+    },
+    {
+      "value": "#ffffff",
+      "id": 7
+    }
+  ],
+  "size": [
+    {
+      "id": 2,
+      "value": "xxl"
+    },
+    {
+      "value": "34",
+      "id": 3
+    },
+    {
+      "value": "40",
+      "id": 4
+    },
+    {
+      "value": "M",
+      "id": 5
+    },
+    {
+      "value": "S",
+      "id": 6
+    },
+    {
+      "value": "l",
+      "id": 7
+    },
+    {
+      "value": "38",
+      "id": 8
+    },
+    {
+      "value": "39",
+      "id": 9
+    },
+    {
+      "value": "41",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "email": "ngocnqph12806@fpt.edu.vn",
+      "password": "$2a$10$GSH306j50Bmafnx5qLr7Yuc0QwYhHLhSz.gjZYF0eCOLM.JWQZD7q",
+      "id": "4e1109db-01d4-4ed8-8b2e-3e3b4c6fd4db",
+      "fullname": "Nguyễn Quang Ngọc",
+      "phone": "0123456789",
+      "address": "Hà Nội",
+      "birthday": "20/11/1997",
+      "avatar": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+      "role": "0",
+      "status": "1",
+      "code": 3782248842487049700,
+      "active": true
+    },
+    {
+      "email": "thutamxd@gmail.com",
+      "password": "$2a$10$SvTIaRPgXWpN5Xi76I.wAODdxaObONbax5hXnEE0j3Ll7A26GzUiK",
+      "id": "12827c95-94e3-46ef-b403-fe54545bfe8c",
+      "fullname": "Nguyễn Quang Ngọc",
+      "phone": "0123456789",
+      "address": "Hà Nội",
+      "birthday": "20/11/1997",
+      "avatar": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+      "role": "1",
+      "status": "1",
+      "code": 604925738219789700000,
+      "active": true
+    }
+  ],
+  "banner": [
+    {
+      "id": "1",
+      "images": "http://snkrsg.com/thumb/1366x560/1/upload/hinhanh/7801250539118200.jpg"
+    },
+    {
+      "id": "2",
+      "images": "http://snkrsg.com/thumb/1366x560/1/upload/hinhanh/056364393797418.jpg"
+    },
+    {
+      "id": "3",
+      "images": "http://snkrsg.com/thumb/1366x560/1/upload/hinhanh/219007695964179.jpg"
+    },
+    {
+      "id": "4",
+      "images": "http://snkrsg.com/thumb/1366x560/1/upload/hinhanh/629656431388523.jpg"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "name": "YEEZY BOOST",
+      "img": "http://snkrsg.com/thumb/270x270/1/upload/product/1r-8213.jpg"
+    },
+    {
+      "id": 2,
+      "name": "AIR FORCE 1",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/2-4045.jpg"
+    },
+    {
+      "id": 3,
+      "name": "HOME OF CLASSIC",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/9-5817.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MLB FILA PUMA",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/mlb14-150.png"
+    },
+    {
+      "id": 5,
+      "name": "AIR MAX - M2K - CORTEZ",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/20-802.jpg"
+    },
+    {
+      "id": 6,
+      "name": "UPTEMPO",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/126043e24311ee544c49b357818dadfa7ff1024x1024-8801.jpg"
+    },
+    {
+      "id": 7,
+      "name": "NMD - ULTRA BOOST - ARKYN",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/35-2110.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PROPHERE - FALCON - YUNG",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/9-6653.jpg"
+    },
+    {
+      "id": 9,
+      "name": "AIR JORDAN",
+      "img": "http://snkrsg.com/thumb/370x370/1/upload/product/jd1-4764.jpg"
+    },
+    {
+      "name": "ABC",
+      "img": "https://cf.shopee.vn/file/09b441ce3dc7182d54eda328f7da353e",
+      "id": 10
+    },
+    {
+      "name": "ABCBC",
+      "img": "https://cf.shopee.vn/file/09b441ce3dc7182d54eda328f7da353e",
+      "id": 11
+    },
+    {
+      "name": "DSFS132",
+      "img": "https://sa.tinhte.vn/2016/10/3893837_1_1.jpg",
+      "id": 12
+    },
+    {
+      "name": "SẢN PHẨM 03",
+      "img": "http://snkrsg.com/thumb/270x270/1/upload/product/3797803917088625558496192430032482498772992n-8489.jpg",
+      "id": 13
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "name": "FAKE"
+    },
+    {
+      "id": 2,
+      "name": "ADIDAS"
+    },
+    {
+      "id": 3,
+      "name": "NIKE"
+    }
+  ],
+  "bill": [
+    {
+      "product": [
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "4",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "1",
+          "size": "xxl"
+        }
+      ],
+      "sumMoney": 14014,
+      "totalMoney": 14014,
+      "discount": 0,
+      "status": 1,
+      "huydon": false,
+      "idUser": "e325c591-27fc-44af-85e7-b564826506e5",
+      "fullname": "Nike HBR Pant abc",
+      "phone": "0346238899",
+      "address": "Kim Lũ Sóc Sơn Hà Nội",
+      "dateBuy": "2021-06-13T16:47:42.196Z",
+      "selectPay": "qrcode",
+      "note": "",
+      "id": 1
+    },
+    {
+      "product": [
+        {
+          "idProduct": "a9dc043c-13e2-4acf-ba33-c1c14fa322a5",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 300000,
+          "quantity": "3",
+          "size": "40"
+        }
+      ],
+      "sumMoney": 900000,
+      "totalMoney": 800000,
+      "discount": "100000",
+      "status": -1,
+      "huydon": false,
+      "idUser": "e325c591-27fc-44af-85e7-b564826506e5",
+      "fullname": "Nike HBR Pant abc",
+      "phone": "0346238899",
+      "address": "Kim Lũ Sóc Sơn Hà Nội",
+      "dateBuy": "2021-06-13T17:17:22.680Z",
+      "selectPay": "qrcode",
+      "note": "fwarwe",
+      "id": 2
+    },
+    {
+      "product": [
+        {
+          "idProduct": "a9dc043c-13e2-4acf-ba33-c1c14fa322a5",
+          "images": "http://snkrsg.com/thumb/270x270/1/upload/product/16276192752895914911155571763630594278687094n-4030.jpg",
+          "price": 300000,
+          "quantity": "1",
+          "size": "40"
+        },
+        {
+          "idProduct": "a9dc043c-13e2-4acf-ba33-c1c14fa322a5",
+          "images": "http://snkrsg.com/thumb/270x270/1/upload/product/16276192752895914911155571763630594278687094n-4030.jpg",
+          "price": 100000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "xxl"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "da86d76d-7759-4fac-91da-108927e9a252",
+          "images": "http://snkrsg.com/thumb/270x270/1/upload/product/1-6939.jpg",
+          "price": 42344234,
+          "quantity": "1",
+          "size": "M"
+        },
+        {
+          "idProduct": "da86d76d-7759-4fac-91da-108927e9a252",
+          "images": "http://snkrsg.com/thumb/270x270/1/upload/product/1-6939.jpg",
+          "price": 1004,
+          "quantity": "1",
+          "size": "34"
+        },
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1002,
+          "quantity": "1",
+          "size": "xxl"
+        }
+      ],
+      "sumMoney": 42749242,
+      "totalMoney": 42749242,
+      "discount": 0,
+      "status": 0,
+      "huydon": false,
+      "idUser": "4e1109db-01d4-4ed8-8b2e-3e3b4c6fd4db",
+      "fullname": "Nguyễn Quang Ngọc",
+      "phone": "0123456789",
+      "address": "Hà Nội",
+      "dateBuy": "2021-06-14T14:54:34.060Z",
+      "selectPay": "cod",
+      "note": "",
+      "id": 3
+    },
+    {
+      "product": [
+        {
+          "idProduct": "da86d76d-7759-4fac-91da-108927e9a252",
+          "images": "http://snkrsg.com/thumb/270x270/1/upload/product/1-6939.jpg",
+          "price": 535345,
+          "quantity": "1",
+          "size": "xxl"
+        }
+      ],
+      "sumMoney": 535345,
+      "totalMoney": 535345,
+      "discount": 0,
+      "status": 0,
+      "huydon": false,
+      "idUser": "4e1109db-01d4-4ed8-8b2e-3e3b4c6fd4db",
+      "fullname": "Nike HBR Pant abc",
+      "phone": "0346238899",
+      "address": "Kim Lũ Sóc Sơn Hà Nội",
+      "dateBuy": "2021-06-14T14:54:56.508Z",
+      "selectPay": "cod",
+      "note": "",
+      "id": 4
+    },
+    {
+      "product": [
+        {
+          "idProduct": "5bd05f32-afa7-4819-ac65-c5de89e6d5de",
+          "images": "https://thesneakerhouse.com/wp-content/uploads/2019/03/Nike-EXP-X14-01-1-600x600.jpg",
+          "price": 1000,
+          "quantity": "1",
+          "size": "34"
+        }
+      ],
+      "sumMoney": 1000,
+      "totalMoney": 1000,
+      "discount": 0,
+      "status": 0,
+      "huydon": false,
+      "idUser": "4e1109db-01d4-4ed8-8b2e-3e3b4c6fd4db",
+      "fullname": "Nguyễn Quang Ngọc -",
+      "phone": "0123456789",
+      "address": "Hà Nội",
+      "dateBuy": "2021-06-14T14:55:42.113Z",
+      "selectPay": "cod",
+      "note": "",
+      "id": 5
+    }
+  ],
+  "voucher": [
+    {
+      "id": "15cd6f87-fea8-4e32-8fad-05eabe7c5c60",
+      "discount": "100000"
+    },
+    {
+      "discount": 10000,
+      "id": "5SQqmIl"
+    }
+  ]
+}
